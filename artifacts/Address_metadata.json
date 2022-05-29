@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Ghosper-NFT-Staking-MasterChef.sol": "Address"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Ghosper-NFT-Staking-MasterChef.sol": {
+			"keccak256": "0xa0361a0e2fa08944a4db8137a7b44d0414d03a61a931c69310ff61b63613ca09",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://ccb29eb746305ea0494e61e7d85027c4f5347fb9105d637d0323268ad4b1550b",
+				"dweb:/ipfs/QmbPiJBdimZCSfbtxR1B11k5RYHDiVrsXBX7KPsCgqY6Zg"
+			]
+		}
+	},
+	"version": 1
+}

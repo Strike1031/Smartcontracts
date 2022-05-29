@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Provides information about the current execution context, including the sender of the transaction and its data. While these are generally available via msg.sender and msg.data, they should not be accessed in such a direct manner, since when dealing with meta-transactions the account sending and paying for execution may not be the actual sender (as far as an application is concerned). This contract is only required for intermediate, library-like contracts.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Ghosper-NFT-Staking-MasterChef.sol": "Context"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Ghosper-NFT-Staking-MasterChef.sol": {
+			"keccak256": "0xa0361a0e2fa08944a4db8137a7b44d0414d03a61a931c69310ff61b63613ca09",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://ccb29eb746305ea0494e61e7d85027c4f5347fb9105d637d0323268ad4b1550b",
+				"dweb:/ipfs/QmbPiJBdimZCSfbtxR1B11k5RYHDiVrsXBX7KPsCgqY6Zg"
+			]
+		}
+	},
+	"version": 1
+}

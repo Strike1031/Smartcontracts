@@ -1,0 +1,6 @@
+//ghosp token address.
+0xc5a2B0f5F604479f2f4D0c3C2a2053210F18813b
+//ghosp NFT token address.
+0x506f759e2bed075f391b1376894ad2df494cf328
+//staking contract address.
+0x4A21D96bFD60A33c322578089d79dCd1298aa528
